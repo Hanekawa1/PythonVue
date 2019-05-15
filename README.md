@@ -25,3 +25,5 @@ npm run test
 npm run lint
 ```
 # PythonVue
+
+Projeto cópia do curso ministrado na XVI InfoWeek - UNIPAM, upado apenas para fins acadêmicos de aprendizado.
